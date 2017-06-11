@@ -1,0 +1,6 @@
+Tue May  2 11:06:15 2017
+ --- ERROR Chargement de la resource : texture_star
+Tue May  2 11:09:33 2017
+ --- ERROR Chargement de la resource : texture_star
+Tue May  2 11:09:38 2017
+ --- ERROR Chargement de la resource : texture_star
